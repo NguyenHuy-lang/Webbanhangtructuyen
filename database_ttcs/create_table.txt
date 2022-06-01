@@ -1,0 +1,51 @@
+
+CREATE TABLE user (
+    id int NOT NULL auto_increment,
+    ten_day_du varchar(255),
+    ten_tai_khoan varchar(255),
+    email varchar(255),
+    sdt varchar(255),
+    mau_khau varchar(255),
+    gioi_tinh varchar(100),
+    vai_tro varchar(100),
+    PRIMARY KEY (id)
+);
+
+create table bill(
+	id int not null auto_increment,
+    ngay_dat_hang varchar(100), 
+    firstname varchar(150), 
+    lastname varchar(150),
+    sdt varchar(45),
+    email varchar(200),
+    dia_chi varchar(200),
+    city varchar(45),
+    user_id int,
+    primary key  (id),
+    FOREIGN KEY (user_id) REFERENCES user(id)
+
+);
+
+create table product(
+    ma int not null auto_increment, 
+    ten TEXT,
+    gia double,
+    anh varchar(255), 
+    mo_ta_chi_tiet TEXT,
+    xuat_xu varchar(255),
+    nhan varchar (45),
+    so_luong int,
+    trang_thai int,
+    primary key  (ma)
+);
+
+create table detailbill(
+    gia int,
+    so_luong int,
+    product_ma int,
+    bill_id int,
+    FOREIGN KEY (product_ma) REFERENCES user(product),
+    FOREIGN KEY (bill_id) REFERENCES user(bill)
+
+
+);

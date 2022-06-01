@@ -1,0 +1,125 @@
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (1, '1kg thịt thăn bò [gia hàng nhanh trong 1-2h]', 200000, 'img/product/product-1.jpg', '
+
+Quy cách: toàn bộ sản phẩm sau khi cắt thái được đóng gói 1kg/khay, hút chân không, bảo quản tủ đông, dễ dàng trong việc bảo quản và cực kỳ tiện lợi cho mỗi lần rã đông để sử dụng, 
+chỉ giao hàng trong Tp.HCM, thời gian giao hàng trong 2h.
+Thăn ngoại bò là phần thịt nằm ở tảng lưng, đã tách riêng phần thăn nội, toàn bộ xương và sụn. 
+Tỷ lệ nạc cao xen kẽ với vân mỡ mịn đẹp tạo độ mềm mại và thơm ngon đặc biệt.
+Đặc biệt, thịt thăn bò sốt nước ướp tiêu đen hay sốt ướp bulgogi bày kèm rau sống, dưa leo và chấm cùng muối tiêu chanh chua hoặc tương ớt.... là bạn 
+đã có món bò nướng ngon tuyệt cú để nhâm nhi cùng gia đình
+Xuất xứ: Việt Nam
+HSD: 4 tháng khi để đông
+', 'Hà Nội', 'thit', 1, 1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (2, 'Chuối Đà Lạt, Laba dẻo, ngọt, thơm, sạch', 40000, 'img/product/product-2.jpg', '
+Chuối Laba, chuối Đà Lạt (chuối Tiến Vua), chuối đặc sản nổi tiếng của vùng đất  Đà Lạt- Lâm Đồng
+Chuối laba chứa nhiều chất dinh dưỡng cũng như các loại chất khoáng rất tốt cho sức khỏe , ăn chuối laba mỗi ngày giúp bạn có một cơ thể khỏe mạnh.
+Chuối Laba không mập như chuối hột, không nhỏ như chuối tiêu cũng không căng tròn như chuối ngự mà thon dài, hơi cong, cuống buồng nhỏ.
+Chuối laba khi chín có mùi thơm hơn, đặc trưng và đậm đà rất thú vị. Không những thơm ngon, bổ dưỡng mà chuối Laba còn có những công dụng tuyệt vời trong đời sống.
+Chuối vườn nhà em gửi lên SG bán nên đảm bảo hàng ko ngâm nhúng thuốc nhé. Chuối để chín tự nhiên, để chỗ mát nên chín từ từ. Ko phải như chín ép ạ.
+Giao hàng trong 1-2h quanh khu vực hà nội
+
+', 'Tiền Giang', 'hoaqua',1 , 1);
+
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (3, 'Ổi Nữ Hoàng chín cây ngon dòn ngọt trọng lượng 1 kí [CHỈ GIAO TPHCM]', 50000, 'img/product/product-3.jpg', '
+Ổi Nữ Hoàng chín cây  ngon dòn ngọt
+Hàng lên hàng ngày nên tươi ngon nên khách em muốn ăn thì cứ mạnh dạn đặt mua nhé.
+Ngoài ra, Shop còn nhiều loại trái cây , rau củ quả khác, Khách em muốn xem thêm thì vào shop xem thêm để đặt mua nhé!
+Hạn xử dụng 1 tháng, xuất xứ Việt Nam
+', 'Cao Bằng', 'hoaqua',1,1);
+
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (4, 'Nho tím Ninh thuận', 30000, 'img/product/product-4.jpg', '
+Có tác dụng bổ tỳ, ích khí, giúp cơ thể khỏe mạnh, miễn dịch tốt
+Canxi, kali, photpho, sắt, vitamin B1, B2, B6, C cùng các loại axit amin cần thiết là một thần dược cho người suy nhược thần kinh, mệt mỏi quá sức
+Resvartion là hợp chất chống oxy hóa cao gấp 7 lần so với cac loại vitamin E thông thường, là thực phẩm bổ dưỡng cho phụ nữ, trẻ em và những người gầy yếu thiếu máu.
+', 'Ninh Thuận','hoaqua',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (5, 'bánh Mì pate thịt chả, hải sản', 40000, 'img/product/product-5.jpg', '
+Bánh là một điểm hẹn lý tưởng cho các bạn đến để thưởng thức những món ăn ngon đến từ hải sản.
+Thực đơn đa dạng với nhiều món ăn ngon được chế biến công phu từ những đầu bếp có tay nghề.
+Sự phục vụ tận tình cùng với không gian thoải mái, thủy hải sản tươi sống, chúng tôi tin rằng sẽ không làm bạn thất vọng khi
+', 'Hà Nội','doannhanh',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (6, '[HCM] 1 Kg Xoài cát chu miền Tây - Tươi ngon mỗi ngày', 20000, 'img/product/product-6.jpg', '
+Xoài có tác dụng vàng cho cơ thể có thể kế đến như chứa hàm lượng dinh dưỡng và vitamin dồi dào như là: A,B, C, K và chứa hàm lượng sắt, canxi, đồng,... 
+Không những thế, lượng oxy hoá có trong xoài còn giúp tăng sức đề kháng, giúp cơ thể khoẻ mạnh hơn.
+Hạn sử dụng từ 3-5 ngày, giao hàng trong 1-2h
+
+', 'Hà Nội', 'hoaqua',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (7, 'Dưa hấu Sài Gòn - 1 quả (~2,7kg)', 54000, 'img/product/product-7.jpg', '
+Quả dưa tròn, da xanh nhạt có gân xanh đậm, vỏ mỏng, nhiều nước
+Dưa hấu không hạt
+có ruột dưa đỏ, đẹp, không hạt, vàvị ngọt đậm đà. Có mùi thơm đặc trưng, và dễ bảo quản.
+Trọng lượng trung bình mỗi quả từ 3–5 kg
+Hiện nay với dưa hấu không hạt, các bà mẹ hoàn toàn yên tâm khi cho trẻ em ăn mà không sợ bị hóc hạt.
+Giao hàng trong ngày, hạn xử dụng 3-5 ngày
+', 'TP Hồ Chí Minh','hoaqua',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (8, '[HCM]Trái táo đỏ - Quả táo mỹ cao cấp', 39000, 'img/product/product-8.jpg', '
+Trái táo đỏ giả - quả táo mỹ giả cao cấp này có kích thước 9cm.
+Màu sắc tươi sáng, như táo thật vậy.
+Chất liệu bằng nhựa phủ lớp vỏ in 3d nhìn rất sống động.
+Trái táo giả này tuyệt đẹp.
+Giao hàng trong 2-3h
+Xuất xử Bến Tre
+', 'Mỹ','hoaqua',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (9, 'Sữa trái cây Nutri Boost hương nho chai 1 lít', 3, 'img/product/product-9.jpg', '
+Giới thiệu Nước uống sữa trái cây hương dâu Nutri Boost
+Nước uống sữa trái cây hương dâu Nutri Boost có thành phần an toàn cho người dùng với hương vị trái cây thơm ngon, bổ dưỡng.
+Sản phẩm giúp cơ thể bù đắp nước, bổ sung năng lượng, vitamin B3, B6, E, C rất có lợi cho cơ thể, giúp xua tan cơn khát và cảm giác mệt mỏi, tăng cường sức khỏe cho bạn vui chơi hay làm việc.
+Nước uống sữa trái cây hương dâu Nutri Boost được sản xuất trên quy trình công nghệ hiện đại, được kiểm duyệt chặt chẽ.
+Nước uống sữa trái cây hương dâu Nutri Boost ​đảm bảo chất lượng an toàn, không có chất bảo quản, không chứa chất tạo màu độc hại, mang đến sự an tâm cho bạn.
+Sản phẩm được đóng chai kín đáo, dễ bảo quản và dùng được lâu với kích thước chai lớn tiết kiệm, thích hợp dùng cho những chuyến dã ngoại đông người.
+Lưu ý:
+- Hạn sử dụng thực tế quý khách vui lòng xem trên bao bì.
+- Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế.
+', 'Hàn','nuocngot',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (10, 'Combo 4 cái đùi gà giòn CP gói 500g', 119000, 'img/product/product-10.jpg', '
+Đùi gà rán CP ngon Tuyệt, chuẩn vị
+vỏ ngoài giòn ta, bên trong thịt mềm thơm trọn vị
+gia vị được tẩm ướp hoàn chỉnh
+sản phẩm đóng túi 500g 4 cái như hình
+sản xuất tại nhà máy CP Việt Nam
+hạn sử dụng trong ngày
+Giao hàng trong khoảng 15-30 phút
+', 'Viet Nam','doannhanh',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (11, ' Nước cam ép Vfresh nguyên chất 100% hộp 1 lít', 44000, 'img/product/product-11.jpg', '
+Nước cam ép Vfresh được làm từ nguồn trái cây tươi ngon tự nhiên, hoàn toàn không chứa chất bảo quản, giàu dưỡng chất, vitamin C,
+cho cơ thể khỏe mạnh và tràn đầy sức sống, sản phẩm hoàn toàn không chứa chất bảo quản và không sử dụng màu thực phẩm.
+Nước cam ép Vfresh giúp tăng cường sức đề kháng, cho cơ thể khỏe mạnh mỗi ngày. Không chỉ vậy, sản phẩm còn có tác dụng giải nhiệt rất tốt,
+giúp bù năng lượng cho cơ thể sau khi vận động và đem lại làn da mịn màng, tươi trẻ cho chị em phụ nữ.
+Nước cam ép Vfresh được thiết kế hộp 1L tiện dụng, vỏ hộp làm bằng giấy tráng nhôm, bảo quản nước ép luôn giữ được hương vị tự nhiên thơm ngon,
+đem lại sự yên tâm cho người sử dụng. Sản phẩm do Vinmart phân phối luôn mang đến chất lượng tốt nhất cho người tiêu dùng.
+Lưu ý:
+- Hạn sử dụng thực tế quý khách vui lòng xem trên bao bì.
+- Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế.
+Đặc tính sản phẩm [Siêu thị WinMart] - Nước cam ép Vfresh nguyên chất 100% hộp 1 lít
+', 'Công ty sửa VinaMil
+','nuocngot',1,1);
+
+INSERT INTO Product (ma, ten, gia, anh, mo_ta_chi_tiet, xuat_xu, nhan, so_luong, trang_thai)
+VALUES (12, '[HCM]màng co giỏ trái cây giò quà tết loại tốt - số lượng 10 túi', 1000000, 'img/product/product-12.jpg', '
+Giỏ trái cây A 484 bao gồm dưa lưới ruột cam, táo mỹ, thanh long ruột đỏ, nho đen Mỹ, Úc 1 chùm nhỏ.
+Có thể thay đổi 1 số thành phần trái tùy theo mùa mà không báo trước, giá không đổi.
+Sản phẩm sẽ được chúng tôi giao ngay sau khi Qúy khách đặt hàng thành công
+Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành.
+Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng)....
+Xuất xứ Hà Nội
+Hạn xử dụng trong tuần
+', 'Hà Nội','hoaqua',1,1);
